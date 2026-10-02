@@ -1,0 +1,18 @@
+# Entradas, ejemplos y enunciados de Advent of Code: no se publican
+entrada.txt
+ejemplo.txt
+enunciado*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editores
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
